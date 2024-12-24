@@ -1,4 +1,7 @@
 #  Style Sight: Revolutionizing Clothing Store Management 🛍️
+<p align="left">
+    <img src="StyleSightLogo.png" alt="Cybernova" width="800" />
+</p>
 
 **Style Sight** is a powerful, intuitive application designed to streamline the operations of clothing stores. It provides a centralized solution for managing products, clients, orders, and suppliers within a user-friendly interface. 🚀
 
