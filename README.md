@@ -35,11 +35,6 @@
 
 ---
 
-## 💡 Why Style Sight?
-Style Sight combines innovation, security, and reliability to simplify store management and adapt to the ever-evolving needs of the retail industry. This project highlights the intersection of technology and creativity to empower businesses in the fashion retail sector.
-
----
-
 ## 🛠️ Built With
 - **C++ Programming Language**
 - **Qt Framework**
