@@ -45,6 +45,18 @@ A special thanks to **Emna Garbaa**, my team member, whose dedication and contri
 
 ---
 
+## 🛠️ Built With
+- **C++ Programming Language**
+- **Qt Framework**
+
+---
+
+## Accessing the Code
+
+To request access to the source code of Style Sight, please contact me via **[LinkedIn](https://www.linkedin.com/in/yessinehakim/)**. I’ll be happy to discuss the project and share the code upon request.
+
+---
+
 ## 📽️ Media
 - **[Style Sight Demo](https://drive.google.com/file/d/1cmbpssibJvCHfjLK9ttO4mS25WakIq8b/view)**
 - **[Commercializing Video](https://drive.google.com/file/d/12FW06iQKi4gY6ZO1jAtaXb3yXWrW3XlX/view)**
