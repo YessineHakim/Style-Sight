@@ -51,7 +51,7 @@ A special thanks to **Emna Garbaa**, my team member, whose dedication and contri
 
 ---
 
-## Accessing the Code
+## 🔓 Accessing the Code
 
 To request access to the source code of Style Sight, please contact me via **[LinkedIn](https://www.linkedin.com/in/yessinehakim/)**. I’ll be happy to discuss the project and share the code upon request.
 
