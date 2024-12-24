@@ -40,14 +40,15 @@ Style Sight combines innovation, security, and reliability to simplify store man
 
 ---
 
-## 🤝 Acknowledgments
-A special thanks to **Emna Garbaa**, my team member, whose dedication and contributions were instrumental in the success of Style Sight.
-
----
-
 ## 🛠️ Built With
 - **C++ Programming Language**
 - **Qt Framework**
+
+---
+
+## 📽️ Media
+- **[Style Sight Demo](https://drive.google.com/file/d/1cmbpssibJvCHfjLK9ttO4mS25WakIq8b/view)**
+- **[Commercializing Video](https://drive.google.com/file/d/12FW06iQKi4gY6ZO1jAtaXb3yXWrW3XlX/view)**
 
 ---
 
@@ -57,7 +58,7 @@ To request access to the source code of Style Sight, please contact me via **[Li
 
 ---
 
-## 📽️ Media
-- **[Style Sight Demo](https://drive.google.com/file/d/1cmbpssibJvCHfjLK9ttO4mS25WakIq8b/view)**
-- **[Commercializing Video](https://drive.google.com/file/d/12FW06iQKi4gY6ZO1jAtaXb3yXWrW3XlX/view)**
+## 🤝 Acknowledgments
+A special thanks to **Emna Garbaa**, my team member, whose dedication and contributions were instrumental in the success of Style Sight.
+
 
