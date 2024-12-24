@@ -46,6 +46,3 @@ A special thanks to **Emna Garbaa**, my team member, whose dedication and contri
 - **[Style Sight Demo](https://drive.google.com/file/d/1cmbpssibJvCHfjLK9ttO4mS25WakIq8b/view)**
 - **[Commercializing Video](https://drive.google.com/file/d/12FW06iQKi4gY6ZO1jAtaXb3yXWrW3XlX/view)**
 
----
-
-Thank you for exploring Style Sight! Feel free to reach out or contribute to this repository to help make it even better.
