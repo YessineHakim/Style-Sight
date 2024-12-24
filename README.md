@@ -1,4 +1,4 @@
-# 🌟 Style Sight: Revolutionizing Clothing Store Management 🛍️
+#  Style Sight: Revolutionizing Clothing Store Management 🛍️
 
 **Style Sight** is a powerful, intuitive application designed to streamline the operations of clothing stores. It provides a centralized solution for managing products, clients, orders, and suppliers within a user-friendly interface. 🚀
 
