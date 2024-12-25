@@ -13,7 +13,7 @@
 - **Secure Access**: Password-protected access to ensure data security.
 - **CRUD Operations**: Manage products, clients, orders, and suppliers efficiently.
 - **PDF Export**: Generate detailed reports and invoices.
-- **Advanced Analytics**: Generate detailed statistics for performance analysis.
+- **Advanced Analytics**: Generate detailed statistics for key metrics.
 - **Arduino Integration**: Employee authentication with PIN validation and LCD motor-based door unlocking.
 
 ---
